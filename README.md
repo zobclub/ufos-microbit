@@ -1,24 +1,21 @@
-# sufos-micribit
+# Super UFO Shooting for micro:bit
+It is a shooting game that shoots down 7 levels of UFO
 
+## Basic usage
+* Tilt the microbit left and right to move the spaceship.
+* Press the A button to fire missile.
+* It is perfect if you drop off 7 levels of UFO.
+* When the UFO reaches the spaceship, the game over.
 
+Please paste the program source list into the JavaScriptEditor and build.
 
-## TODO
+## Supported targets
+* for PXT/microbit
 
-- [ ] Add a reference for your blocks here
-- [ ] Add "icon.png" image (300x200) in the root folder
-- [ ] Add "- beta" to the GitHub project description if you are still iterating it.
-- [ ] Turn on your automated build on https://travis-ci.org
-- [ ] Use "pxt bump" to create a tagged release on GitHub
-- [ ] Get your package reviewed and approved https://makecode.microbit.org/packages/approval
+## Programming language
+* Type Script only.
 
-Read more at https://makecode.microbit.org/packages/build-your-own
 
 ## License
 
-
-
-## Supported targets
-
-* for PXT/microbit
-(The metadata above is needed for package search.)
-
+MIT
