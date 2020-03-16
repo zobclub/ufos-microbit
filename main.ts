@@ -1,4 +1,4 @@
-// Super UFO Shooting for micro:bit
+//  UFO Super Shooting for micro:bit
 
 const ufos = [[0, 0, 255, 0, 0,
     0, 0, 0, 0, 0,
