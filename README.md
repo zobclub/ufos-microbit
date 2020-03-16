@@ -1,4 +1,4 @@
-# Super UFO Shooting for micro:bit
+# UFO Super Shooting for micro:bit
 It is a shooting game that shoots down 7 levels of UFO
 
 ## Basic usage
